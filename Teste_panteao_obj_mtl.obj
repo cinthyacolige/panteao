@@ -1,0 +1,53 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = meters
+
+mtllib Teste_panteao_obj_mtl.mtl
+
+g Mesh1 Model
+
+usemtl Stone_Brushed_Khaki
+v 0 0 -0
+vt 0 0
+vn 0 -1 -0
+v 0 0 -25.59
+vt 0 41.9783
+v 35.8 0 -25.59
+vt -58.727 41.9783
+v 35.8 0 -0
+vt -58.727 0
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+
+vt -41.9783 0
+vn -1 0 -0
+v 0 20.07 -0
+vt 0 32.9232
+v 0 20.07 -25.59
+vt -41.9783 32.9232
+f 2/5/2 1/1/2 5/6/2 6/7/2 
+
+usemtl Sandstone
+vn 0 0 1
+vt 39.1514 0
+v 35.8 20.07 -0
+vt 39.1514 21.9488
+vt 0 21.9488
+f 1/1/3 4/8/3 7/9/3 5/10/3 
+
+vn 1 0 -0
+vt 27.9856 0
+v 35.8 20.07 -25.59
+vt 27.9856 21.9488
+f 4/1/4 3/11/4 8/12/4 7/10/4 
+
+usemtl Carrera_Marble
+vt -39.1514 0
+vn 0 0 -1
+vt -39.1514 21.9488
+f 3/13/5 2/1/5 6/10/5 8/14/5 
+
+vt 0 27.9856
+vn 0 1 -0
+vt 39.1514 27.9856
+f 6/15/6 5/1/6 7/8/6 8/16/6 
+
